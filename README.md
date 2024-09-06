@@ -1,4 +1,4 @@
-Evolution de la qualité de la prédiction en fonction de la taille des ngrammes:
+Evolution de la qualité de la prédiction en fonction de la taille des ngrammes (corpus "éloge de la folie - erasme"):
 
 2 
 moi me monne troprofontravoi a laime quire ? ouvent avisse , c | une corter te commes gage nouvoirretre lies s | en alou de ec leger laiet dou a soins les fologes de . tons , les epas deux baris anes                                                      ...
